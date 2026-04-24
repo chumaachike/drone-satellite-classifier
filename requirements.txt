@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+tqdm
+
+opencv-python
+jupyter
+notebook
