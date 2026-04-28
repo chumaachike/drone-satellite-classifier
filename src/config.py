@@ -15,7 +15,7 @@ else:
     OUTPUT_DIR = PROJECT_ROOT / "outputs"
 
 RAW_DATA_DIR = DATA_DIR / "raw"
-PROCESSED_DATA_DIR = DATA_DIR / "processed"
+DEGRADED_DATA_DIR = DATA_DIR / "degraded"
 
 MODEL_DIR = OUTPUT_DIR / "models"
 PLOT_DIR = OUTPUT_DIR / "plots"
